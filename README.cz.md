@@ -1,3 +1,5 @@
+[Angličtina](README.md)
+
 # Tangram
 Vytvořil jsem logickou hru s názvem tangram, kde je vaším cílem vytvořit objekt, jako jsou například zvířata nebo vozidla. Celkem dostanete 9 tvarů.
 
