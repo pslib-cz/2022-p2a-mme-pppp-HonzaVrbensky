@@ -2,7 +2,7 @@
 Vytvořil jsem logickou hru s názvem tangram, kde je vaším cílem vytvořit objekt, jako jsou například zvířata nebo vozidla. Celkem dostanete 9 tvarů.
 
 ### Materiály:
-Materiály: PLA filament
+- PLA filament
 
 ### Náklady:
 91 Kč | 3,83 Euro | 4,1 USD
