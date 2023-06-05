@@ -1,4 +1,4 @@
-[Angličtina](README.md)
+[Angličtina](README.cz.md)
 
 # Tangram
 I made a logic game named tangram, where your goal is making object like animals or vehicles for example. You get 9 shapes in total.
