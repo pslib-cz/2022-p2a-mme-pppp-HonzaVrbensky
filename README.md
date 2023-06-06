@@ -2,7 +2,7 @@
 
 # Tangram
 
-<img src=Imgs_mme/Tangram_completed.png width="500">
+<img src=Imgs_mme/Tangram_completed.png height="400">
 I made a logic game named tangram, where your goal is making object like animals or vehicles for example. You get 9 shapes in total.
 
 ### Materials:
@@ -28,7 +28,7 @@ I made a logic game named tangram, where your goal is making object like animals
 1. In the box assemble all pieces of tangram (completed tangram is in  the repository)
 2. Slide the top on the box to close it.
 
-<img src=Imgs_mme/Tangram_in_box_with_top.png width="500">
+<img src=Imgs_mme/Tangram_in_box_with_top.png height="400">
 
 
 
