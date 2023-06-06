@@ -9,8 +9,7 @@ I made a logic game named tangram, where your goal is making object like animals
 ### Cost:
 91 Kč | 3,83 Euro | 4,1 USD
 
-### How to print and setup:
-#### How to print:
+### How to print:
 1. Download all **STL** files in repository
 2. Print all downloaded files
 	##### In printing software:
