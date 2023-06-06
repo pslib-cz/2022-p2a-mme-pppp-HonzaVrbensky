@@ -7,7 +7,7 @@ Vytvořil jsem logickou hru s názvem tangram, kde je vaším cílem vytvořit o
 - PLA filament
 
 ### Náklady:
-91 Kč | 3,83 Euro | 4,1 USD
+91 Kč | 3,83 Euro | 4,1 USD (05. 06. 2023)
 
 ### Jak tisknout:
 1. Stáhněte si všechny soubory **STL** z úložiště.
@@ -25,5 +25,3 @@ Vytvořil jsem logickou hru s názvem tangram, kde je vaším cílem vytvořit o
 
 1. V krabici sestavte všechny dílky tangramu (hotový tangram je v úložišti).
 2. Posuňte horní část krabice, aby se zavřela
-
-Translated with www.DeepL.com/Translator (free version)
