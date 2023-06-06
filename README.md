@@ -1,6 +1,8 @@
 [Czech](README.cz.md)
 
 # Tangram
+
+[img src=Imgs_mme/]
 I made a logic game named tangram, where your goal is making object like animals or vehicles for example. You get 9 shapes in total.
 
 ### Materials:
