@@ -7,7 +7,7 @@ I made a logic game named tangram, where your goal is making object like animals
 - PLA  filament
 
 ### Cost:
-91 Kč | 3,83 Euro | 4,1 USD
+91 Kč | 3,83 Euro | 4,1 USD (05. 06. 2023)
 
 ### How to print:
 1. Download all **STL** files in repository
