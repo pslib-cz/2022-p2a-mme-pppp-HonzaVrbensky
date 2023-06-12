@@ -2,7 +2,7 @@
 
 # Tetris do kapsy
 
-Vytvořil jsem hru na bázy Tetrisu. Cílem hry je poskládac co nejvíce řad a tím zaplnic co největší plochu čtverce. K tomuto je ve hře 7 dílků.
+Vytvořil jsem hru na bázy Tetrisu. Cílem hry je poskládat co nejvíce řad a tím zaplnic co největší plochu čtverce. K tomuto je ve hře 7 dílků.
 
 ### Materiály:
 - PLA filament
