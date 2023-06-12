@@ -1,8 +1,8 @@
 [Angličtina](README.md)
 
-# Tangram
-<img src="Imgs_mme/Tangram_completed.png" height="400">
-Vytvořil jsem logickou hru s názvem tangram, kde je vaším cílem vytvořit objekt, jako jsou například zvířata nebo vozidla. Celkem dostanete 9 tvarů.
+# Tetris do kapsy
+
+Vytvořil jsem hru na bázy Tetrisu. Cílem hry je poskládac co nejvíce řad a tím zaplnic co největší plochu čtverce. K tomuto je ve hře 7 dílků.
 
 ### Materiály:
 - PLA filament
@@ -26,4 +26,3 @@ Vytvořil jsem logickou hru s názvem tangram, kde je vaším cílem vytvořit o
 
 1. V krabici sestavte všechny dílky tangramu (hotový tangram je v úložišti).
 2. Posuňte horní část krabice, aby se zavřela
-<img src="Imgs_mme/Tangram_in_box_with_top.png" height="400">
