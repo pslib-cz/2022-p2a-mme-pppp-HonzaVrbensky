@@ -18,7 +18,7 @@ Vytvořil jsem hru na bázy Tetrisu. Cílem hry je poskládat co nejvíce řad a
  	 - Pokud chcete, můžete tisk zvětšit, ale výchozí velikost je **dostatečně velká**.
 
 	##### Printing speeed:
-  - V horní části pro krabici: asi 2 hodiny
+  - V horní části pro krabici: asi 3 hodiny
   - Krabice pro tangram: zhruba 2 hodiny
   - Všechny dílky tangramu: 1 - 1,5 hodiny.
 
