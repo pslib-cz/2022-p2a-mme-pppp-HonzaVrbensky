@@ -1,6 +1,7 @@
 [Angličtina](README.md)
 
 # Tetris do kapsy
+![Tetris](Imgs_mme/Tetris_1.png)
 
 Vytvořil jsem hru na bázy Tetrisu. Cílem hry je poskládat co nejvíce řad a tím zaplnit co největší plochu čtverce. K tomuto je ve hře 7 dílků.
 
@@ -26,3 +27,5 @@ Vytvořil jsem hru na bázy Tetrisu. Cílem hry je poskládat co nejvíce řad a
 
 1. V krabici sestavte všechny dílky tangramu (hotový tangram je v úložišti).
 2. Posuňte horní část krabice, aby se zavřela
+
+![Tetris](Imgs_mme/Tetirs_2.png)
