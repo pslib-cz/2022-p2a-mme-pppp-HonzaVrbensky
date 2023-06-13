@@ -1,7 +1,7 @@
 [Czech](README.cz.md)
 
 # Tetris minigame
-
+![Tetris](Imgs_mme/Tetris_1.png)
 
 I made a Tetris like game where your goal is to fill as much rows as you possibly can with pieces of puzzle you have.
 
@@ -27,6 +27,8 @@ I made a Tetris like game where your goal is to fill as much rows as you possibl
 
 1. In the box assemble all pieces of tangram (completed tangram is in  the repository)
 2. Slide the top on the box to close it.
+
+![Tetris](Imgs_mme/Tetirs_2.png)
 
 
 
