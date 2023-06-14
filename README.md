@@ -19,7 +19,7 @@ I made a Tetris like game where your goal is to fill as much rows as you possibl
  	 - if you want you can make print bigger, but default size is **big enough**
 
 	##### Printing speeed:
-  - Top for box: around 2 hours
+  - Top for box: around 2 hours (Top has to be printed vertically with brim)
   - Box for tangram: roughly 3 hours
   - All tangram pieces: 1 - 1,5 hours
 
